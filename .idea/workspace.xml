@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b5a40c2-0b22-46ae-b6de-66e8fae4b39e" name="Changes" comment="" />
+    <list default="true" id="6b5a40c2-0b22-46ae-b6de-66e8fae4b39e" name="Changes" comment="Início Challenge" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +10,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:/DanielDS02/Challenge-Conversor-De-Moedas.git",
+    "accountId": "670c3fcc-79d6-4351-aeb3-ea23f4ae4091"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -22,8 +28,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,6 +43,27 @@
       <option name="presentableId" value="Default" />
       <updated>1732059508761</updated>
     </task>
+    <task id="LOCAL-00001" summary="Início Challenge">
+      <option name="closed" value="true" />
+      <created>1732059552344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732059552344</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Início Challenge">
+      <option name="closed" value="true" />
+      <created>1732059685093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732059685093</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Início Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Início Challenge" />
   </component>
 </project>
