@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b5a40c2-0b22-46ae-b6de-66e8fae4b39e" name="Changes" comment="Início Challenge">
+    <list default="true" id="6b5a40c2-0b22-46ae-b6de-66e8fae4b39e" name="Changes" comment="Implementando a API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenge-Conversor-De-Moedas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Challenge-Conversor-De-Moedas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,11 +97,20 @@
       <option name="project" value="LOCAL" />
       <updated>1732060865793</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Implementando a API">
+      <option name="closed" value="true" />
+      <created>1732127654077</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732127654077</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Início Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Início Challenge" />
+    <MESSAGE value="Implementando a API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementando a API" />
   </component>
 </project>
