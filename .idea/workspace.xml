@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b5a40c2-0b22-46ae-b6de-66e8fae4b39e" name="Changes" comment="Implementando a camada de Conversão">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/Principal.java" afterDir="false" />
+    <list default="true" id="6b5a40c2-0b22-46ae-b6de-66e8fae4b39e" name="Changes" comment="Pequenas Modificações.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +162,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732217403302</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Implementando a camada de interação com o usuário.">
+      <option name="closed" value="true" />
+      <created>1732220400258</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732220400258</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Pequenas Modificações.">
+      <option name="closed" value="true" />
+      <created>1732220448439</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732220448439</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +186,8 @@
     <MESSAGE value="Implementando a API" />
     <MESSAGE value="Implementando a modelagem" />
     <MESSAGE value="Implementando a camada de Conversão" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementando a camada de Conversão" />
+    <MESSAGE value="Implementando a camada de interação com o usuário." />
+    <MESSAGE value="Pequenas Modificações." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pequenas Modificações." />
   </component>
 </project>

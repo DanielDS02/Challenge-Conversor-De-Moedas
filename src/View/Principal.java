@@ -24,8 +24,8 @@ public class Principal{
         System.out.print("Digite o valor a ser convertido: ");
         double valor = scanner.nextDouble();
 
-        String moedaOrigem = "";
-        String moedaDestino = "";
+        String moedaOrigem;
+        String moedaDestino;
 
         switch (opcao) {
             case 1 -> {
