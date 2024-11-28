@@ -2,7 +2,7 @@
 
 
 
-## Sobre o projeto:
+## Sobre o Challenge:
 O desafio era produzir um conversor de moedas usando uma API, sendo 6 o número mínimo de moedas presentes no conversor.
 
 ## Tecnologias usadas:
