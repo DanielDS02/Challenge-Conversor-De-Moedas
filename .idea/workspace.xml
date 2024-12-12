@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b5a40c2-0b22-46ae-b6de-66e8fae4b39e" name="Changes" comment="Pequenas Modificações.">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="6b5a40c2-0b22-46ae-b6de-66e8fae4b39e" name="Changes" comment="Atualizando Readme.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +185,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732803112471</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Atualizando Readme.">
+      <option name="closed" value="true" />
+      <created>1732803287419</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732803287419</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Atualizando Readme.">
+      <option name="closed" value="true" />
+      <created>1732807541834</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732807541834</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,6 +211,7 @@
     <MESSAGE value="Implementando a camada de Conversão" />
     <MESSAGE value="Implementando a camada de interação com o usuário." />
     <MESSAGE value="Pequenas Modificações." />
-    <option name="LAST_COMMIT_MESSAGE" value="Pequenas Modificações." />
+    <MESSAGE value="Atualizando Readme." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando Readme." />
   </component>
 </project>
